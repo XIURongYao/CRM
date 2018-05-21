@@ -1,6 +1,6 @@
 public class test{
   public static void main(Stirng args()){
-  System.out.println("test")
+  System.out.println("test");//帮你加个分号，是有点简单，快点加
 }
 
 }
